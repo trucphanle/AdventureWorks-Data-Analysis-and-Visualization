@@ -1,1 +1,2 @@
-# AdventureWorks-Data-Analysis-and-Visualization
+# AdventureWorks Data Modelling, Analysis and Visualization
+Analysis of AdventureWorks dataset. In [my article](https://truc-phan.medium.com/adventureworks-sales-report-end-to-end-etl-process-and-data-visualization-using-power-bi-114a45ed3d21), I will guide you through an end-to-end ETL (Extract-Transform-Load) and data visualization process using Power BI, with a touch of Snowflake integration. Further, I also used Tableau for data visualization.
